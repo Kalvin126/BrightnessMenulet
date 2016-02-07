@@ -17,17 +17,17 @@ Download app build: `BrightnessMenulet.zip`_.
 
 Monitors:
 .......................
-+------------+------------+
-| Working    | Non-Working|
-+============+============+
-| Dell U2014h| Dell P2715Q| 
-+------------+------------+
-| Dell U2414h|            |
-+------------+------------+
-| Dell U2415h|            | 
-+------------+------------+
-| Dell U2515h|            | 
-+------------+------------+
++------------+------------+------------+
+| Working    | Partial    | Non-Working|
++============+============+============+
+| Dell U2014h| Dell U2715h| Dell P2715Q| 
++------------+------------+------------+
+| Dell U2414h|            |            |
++------------+------------+------------+
+| Dell U2415h|            |            | 
++------------+------------+------------+
+| Dell U2515h|            |            | 
++------------+------------+------------+
 
 If you have tested your monitor(s) with this tool, please let me know whether or not it work and I will update this table.
 
