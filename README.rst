@@ -35,6 +35,8 @@ Monitors:
 +-------------+------------+
 | Dell P2415Q |            | 
 +-------------+------------+
+| ACER G276HL |            | 
++-------------+------------+
 
 If you have tested your monitor(s) with this tool, please let me know whether or not it work and I will update this table.
 
